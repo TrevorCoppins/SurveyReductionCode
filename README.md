@@ -24,3 +24,5 @@ For my own illustrative purposes, I utilized a publicly available dataset of the
 International Personality Item Pool:
 https://ipip.ori.org/
 For academic citations of the IPIP, please see here: https://ipip.ori.org/newCitation.htm
+General IPIP-50 citation: 
+Goldberg, L. R. (1992). The development of markers for the Big-Five factor structure. Psychological Assessment, 4, 26–42.
