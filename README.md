@@ -9,13 +9,13 @@ Below are sources utilized in my code, please cite these individual(s)/programs/
 Scikit-Criteria:
 https://scikit-criteria.quatrope.org/en/latest/
 
-Academic citation for Scikit-Criteria (as per their website)
+Academic citation for Scikit-Criteria (as per their website):
 Cabral, Juan B., Nadia Ayelen Luczywo, and José Luis Zanazzi 2016 Scikit-Criteria: Colección de Métodos de Análisis Multi-Criterio Integrado Al Stack Científico de Python. In XLV Jornadas Argentinas de Informática E Investigación Operativa (45JAIIO)-XIV Simposio Argentino de Investigación Operativa (SIO) (Buenos Aires, 2016) Pp. 59-66. http://45jaiio.sadio.org.ar/sites/default/files/Sio-23.pdf.
 
 OASIS R calculator:
 https://orgscience.charlotte.edu/about-us/resources
 
-Academic citation for OASIS calculator 
+Academic citation for OASIS calculator: 
 Cortina, J. M., Sheng, Z., Keener, S. K., Keeler, K. R., Grubb, L. K., Schmitt, N., Tonidandel, S., Summerville, K. M., Heggestad, E. D., & Banks, G. C. (2020). From alpha to omega and beyond! A look at the past, present, and (possible) future of psychometric soundness in the Journal of Applied Psychology. Journal of Applied Psychology. https://doi.org/10.1037/apl0000815
 
 
